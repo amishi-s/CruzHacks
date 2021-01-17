@@ -5,8 +5,7 @@ h1 {
    how to make it stay in place when the webpage is resized and doesn't link to specific 
    playlists yet*/
 .button {
-    position:absolute;
+    margin: auto;
     color: greenyellow;
-    top:98px;
-    left:59%;
+    width: 50%;
 }
