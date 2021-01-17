@@ -1,8 +1,12 @@
+h1 {
+    color: greenyellow;
+}
 /* makes the submit button to the right of the input text box, but don't know 
    how to make it stay in place when the webpage is resized and doesn't link to specific 
    playlists yet*/
-.submit_button {
+.button {
     position:absolute;
+    color: greenyellow;
     top:98px;
     left:59%;
 }
